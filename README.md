@@ -24,5 +24,5 @@
 
 <br />
 
-<img align="left" alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true"/>
+<img align="left" alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=dark"/>
 

@@ -2,7 +2,7 @@
 
 <br />
 
-## Skills:
+## 🖥 Skills:
 <details>
   <summary>Programming Languages</summary><br>
   <img align="left" alt="Java" width="36px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />

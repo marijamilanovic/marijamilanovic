@@ -34,12 +34,15 @@
 
 <br />
 
-<img align="left" alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast" />
+<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast" />
 
-<img align="left" alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijamilanovic&show_icons=true&theme=highcontrast&hide=html,css&langs_count=5" />
+<img alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijamilanovic&show_icons=true&theme=highcontrast&hide=html,css&langs_count=5" />
 
 ---
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=marijamilanovic.marijamilanovic" alt="Visitors">                     
 </p>
+
+<br />
+<br />

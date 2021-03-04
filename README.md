@@ -2,6 +2,15 @@
 
 <br />
 
+### 🌎 Connect with me:
+[<img align="left" alt="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][gitlab]
+<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+<img align="left" alt="Instagram" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+<img align="left" alt="Spotify" width="36px" src="https://1000logos.net/wp-content/uploads/2017/08/Spotify-Logo.png" />
+
+<br />
+<br />
+
 ### 🖥 Skills:
 <details>
   <summary>Programming Languages</summary><br>
@@ -43,3 +52,5 @@
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=marijamilanovic.marijamilanovic" alt="Visitors">                     
 </p>
+
+[gitlab]: https://gitlab.com/marijamilanovic

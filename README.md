@@ -1,8 +1,8 @@
-### Hi there, I'm Marija Milanović 👋
+## Hi there, I'm Marija Milanović 👋
 
 <br />
 
-## 🖥 Skills:
+### 🖥 Skills:
 <details>
   <summary>Programming Languages</summary><br>
   <img align="left" alt="Java" width="36px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
@@ -43,6 +43,3 @@
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=marijamilanovic.marijamilanovic" alt="Visitors">                     
 </p>
-
-<br />
-<br />

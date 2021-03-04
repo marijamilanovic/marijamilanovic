@@ -1,7 +1,5 @@
 ## Hi there, I'm Marija Milanović 👋
 
-<br />
-
 ### 🌎 Connect with me:
 [<img align="left" alt="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][gitlab]
 <img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />

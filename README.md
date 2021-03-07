@@ -42,7 +42,7 @@
 
 <br />
 
-<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast&include_all_commits=true" />
+<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast" />
 
 <img alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijamilanovic&show_icons=true&theme=highcontrast&hide=html,css&langs_count=5" />
 

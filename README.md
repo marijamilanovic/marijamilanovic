@@ -1,10 +1,6 @@
 ## Hi there, I'm Marija Milanović (aka Maša) 👋
 
-<br />
-
 <h4>👩‍💻 I'm currently learning Go and researching about Cybersecurity. </h4>
-
-<br />
 
 ### 🌎 Connect with me:
 [<img align="left" alt="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][gitlab]

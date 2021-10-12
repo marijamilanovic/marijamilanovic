@@ -1,6 +1,9 @@
 ## Hi there, I'm Marija Milanović (aka Maša) 👋
 
+<h4>🔭 I’m currently working on QACube project (https://www.qacube.com/). </h4>
 <h4>👩‍💻 I'm currently learning Go and researching about Cybersecurity. </h4>
+
+
 
 ### 🌎 Connect with me:
 [<img align="left" alt="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][gitlab]
@@ -48,6 +51,8 @@
 <img alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast&count_private=true" />
 
 <img alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijamilanovic&show_icons=true&theme=highcontrast&hide=html,css&langs_count=5" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marijamilanovic" alt="marijamilanovic" /></a> </p>
 
 ---
 

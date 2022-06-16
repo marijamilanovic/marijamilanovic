@@ -1,7 +1,8 @@
 ## Hi there, I'm Marija Milanović (aka Maša) 👋
 
 <h4>🔭 I’m currently working on QACube project (https://www.qacube.com/). </h4>
-<h4>👩‍💻 I'm currently learning Go and researching about Cybersecurity. </h4>
+<h4>👩‍💻 I'm currently researching about Cybersecurity. </h4>
+<br>
 
 
 
@@ -9,10 +10,10 @@
 [<img align="left" alt="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][gitlab]
 [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-<br />
+<br>
 
 
-<br />
+<br>
 
 ### 🖥 Skills:
 <details>

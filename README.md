@@ -1,7 +1,6 @@
 ## Hi there, I'm Marija Milanović (aka Maša) 👋
 
 <h4>🔭 I’m currently working on QACube project (https://www.qacube.com/). </h4>
-<h4>👩‍💻 I'm currently researching about Cybersecurity. </h4>
 <br>
 
 

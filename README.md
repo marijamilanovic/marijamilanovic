@@ -49,10 +49,6 @@
 
 <br />
 
-<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=marijamilanovic&show_icons=true&theme=highcontrast&count_private=true" />
-
-<img alt="Top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marijamilanovic&show_icons=true&theme=highcontrast&hide=html,css&langs_count=5" />
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marijamilanovic" alt="marijamilanovic" /></a> </p>
 
 ---

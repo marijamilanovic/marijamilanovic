@@ -1,5 +1,6 @@
 ## Hi there, I'm Marija Milanović (aka Maša) 👋
-
+<h4> I graduated from the Faculty of Technical Science in Novi Sad with a Bachelor's degree in Computing and Control Engineering. My academic journey continues as I am currently pursuing a Master's degree in Electrical and Computer Engineering at the same institution. Programming is a passion of mine and I am constantly seeking out opportunities to learn new skills and technologies. I am excited for what the future holds as I continue to grow and develop in my field. </h4>
+<br>
 <h4>🔭 I’m currently working on QACube project (https://www.qacube.com/). </h4>
 <br>
 
